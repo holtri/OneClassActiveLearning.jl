@@ -452,7 +452,6 @@ git-tree-sha1 = "924770909746106278944b1939f341431ca493b1"
 repo-url = "https://github.com/englhardt/SVDD.jl.git"
 uuid = "83536b18-e0df-11e8-1e3f-f991e449cee4"
 repo-rev = "master"
-version = "0.2.0"
 
 [[Serialization]]
 uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
