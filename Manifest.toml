@@ -448,11 +448,9 @@ uuid = "ea8e919c-243c-51af-8825-aaa63cd721ce"
 
 [[SVDD]]
 deps = ["Distributions", "Ipopt", "JuMP", "LinearAlgebra", "MLKernels", "MLLabelUtils", "Memento", "Random", "StatsBase", "Test"]
-git-tree-sha1 = "7f9628f20e48be41e25aaf72967525fe053db821"
-repo-rev = "master"
 repo-url = "https://github.com/holtri/SVDD.jl"
 uuid = "83536b18-e0df-11e8-1e3f-f991e449cee4"
-version = "0.2.0"
+
 
 [[Serialization]]
 uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
